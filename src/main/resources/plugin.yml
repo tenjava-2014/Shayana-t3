@@ -1,0 +1,3 @@
+name: Shayana-t3
+main: com.tenjava.entries.Shayana.t3.TenJava
+version: '${project.version}'
